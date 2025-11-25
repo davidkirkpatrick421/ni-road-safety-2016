@@ -1,7 +1,7 @@
 # Northern Ireland Road Safety Analysis 2016
 ### A Data-Driven Investigation into Traffic Collisions and Speeding Patterns
 
-![Project Banner - Map Visualization]
+![Project Banner](assets/banner.png)
 
 ## 🎯 Project Overview
 A spatial and temporal analysis of road traffic collisions and speeding offences across Northern Ireland's 11 council districts, investigating correlations between high-frequency speeding locations and collision hotspots.
